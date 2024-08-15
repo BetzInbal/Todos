@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codco\\Desktop\\Mivdak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\models\\todosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\models\\todosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|c:\\users\\codco\\desktop\\mivdak\\mivdak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17139152-5EAC-4437-B5AC-701919DE7E18}|Mivdak\\Mivdak.csproj|solutionrelative:mivdak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mivdak\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "Mivdak\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:12:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mivdak\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "Mivdak\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:03:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mivdak\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mivdak\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:00:40.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodosModel.cs",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Models\\TodosModel.cs",
+              "RelativeDocumentMoniker": "Mivdak\\Models\\TodosModel.cs",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Models\\TodosModel.cs",
+              "RelativeToolTip": "Mivdak\\Models\\TodosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:41:13.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoModel.cs",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Models\\TodoModel.cs",
+              "RelativeDocumentMoniker": "Mivdak\\Models\\TodoModel.cs",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Models\\TodoModel.cs",
+              "RelativeToolTip": "Mivdak\\Models\\TodoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:38:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Program.cs",
+              "RelativeDocumentMoniker": "Mivdak\\Program.cs",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Program.cs",
+              "RelativeToolTip": "Mivdak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:36:29.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Mivdak\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\codco\\Desktop\\Mivdak\\Mivdak\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Mivdak\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:35:41.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
